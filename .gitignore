@@ -1,0 +1,3 @@
+.vscode
+*/__pychace__/*
+/data_processing/spark_processing/target
